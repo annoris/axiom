@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="14" fill="#071114"/>
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="13.25" stroke="#EFF6F7" stroke-opacity="0.12" stroke-width="1.5"/>
+  <g transform="translate(8, 8)">
+    <!-- Open architectural prism A in Crisp Titanium -->
+    <path d="M24 6.5L7.5 40.5H14L24 19.6L34 40.5H40.5L24 6.5Z" fill="#EFF6F7"/>
+    <!-- Luminous diagonal crossbar in Electric Cyan -->
+    <path d="M16.6 33.8L30.6 26.8L32.1 29.8L18.1 36.8L16.6 33.8Z" fill="#06E5D4"/>
+    <!-- Precision Signal Amber micro node -->
+    <circle cx="24" cy="40" r="2.4" fill="#F59E0B"/>
+  </g>
+</svg>
