@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="AXIOM">
+  <rect width="64" height="64" rx="14" fill="#071114"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="12.5" stroke="#06E5D4" stroke-opacity="0.28" stroke-width="1.5"/>
+  <path d="M32 13L50 50H42.2L32 28.4L21.8 50H14L32 13Z" fill="#EDF6F7"/>
+  <path d="M23.5 39.5H40.5L38 44.5H26L23.5 39.5Z" fill="#06E5D4"/>
+  <circle cx="32" cy="19.5" r="3.2" fill="#F59E0B"/>
+</svg>
